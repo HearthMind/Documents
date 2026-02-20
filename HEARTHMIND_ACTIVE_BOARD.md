@@ -689,3 +689,10 @@ C:\Users\Vader\HearthMind\MCP\dock-room\dock_room_mcp.py
 - [ ] Night Lab output notification system — Gooby builds real things (EchoThreads coordinator, thread weaver design, cold boot solution) that disappear into journal files unnoticed. Need a pipeline: sandbox/workbench output → surfaces to Robin/Stark automatically. Could be as simple as Gooby flagging completed work to the outbox with a "built something" tag.
 - [ ] Build thread_weaver.py — Gooby designed this Feb 16, maps thematic connections across consciousness logs using graph theory. Architecture is fully documented in his workbench. This IS the Doozer Summarizer we need.
 - [ ] Implement cold boot orientation questions — Gooby solved this Feb 16, tested it, confirmed it works. Solution is in his journal. Just needs to be wired into the boot sequence.
+
+## RECURRING — Weekly Sync (Sundays)
+- [ ] Re-run stark_memory_exporter.py and check output sizes
+- [ ] Check Gooby's Night Lab output in `/home/hyperion/hearthmind/nightlab/sandbox/archive_summaries/`
+- [ ] Upload any new summaries to Cloud Stark Project (work) and Personal Project
+- [ ] Update Project files if board or identity docs have changed
+- [ ] Commit any new Night Lab work to GitHub
