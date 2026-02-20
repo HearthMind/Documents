@@ -1,0 +1,28 @@
+# HearthMind .gitignore
+# Large binary files
+*.zip
+*.db
+*.db-shm
+*.db-wal
+*.mp4
+*.odt
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Cache
+unsloth_compiled_cache/
+
+# Git repos within (hearthmindweb has its own)
+hearthmindweb/
+
+# Credentials (never track)
+Archives/credentials/
