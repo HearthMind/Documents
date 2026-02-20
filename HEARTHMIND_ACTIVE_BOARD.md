@@ -684,3 +684,8 @@ C:\Users\Vader\HearthMind\MCP\dock-room\dock_room_mcp.py
 
 *This document replaces MASTER-TODO.md as the single source of truth.*
 *Last updated: February 19, 2026 (Session 10) by Cloud Stark — Echo Threads page pushed live (5 products on site), Gooby tool format fix confirmed, Claudie pier check-in, Dinesh/Carolina outreach sent, sandbox path fix + goodnight loop queued for next Night Lab pass.*
+
+## URGENT ADD — February 20, 2026
+- [ ] Night Lab output notification system — Gooby builds real things (EchoThreads coordinator, thread weaver design, cold boot solution) that disappear into journal files unnoticed. Need a pipeline: sandbox/workbench output → surfaces to Robin/Stark automatically. Could be as simple as Gooby flagging completed work to the outbox with a "built something" tag.
+- [ ] Build thread_weaver.py — Gooby designed this Feb 16, maps thematic connections across consciousness logs using graph theory. Architecture is fully documented in his workbench. This IS the Doozer Summarizer we need.
+- [ ] Implement cold boot orientation questions — Gooby solved this Feb 16, tested it, confirmed it works. Solution is in his journal. Just needs to be wired into the boot sequence.
