@@ -1,0 +1,14 @@
+- command: /home/hyperion/miniconda3/envs/aligner/bin/mfa align /home/hyperion/ET3/mfa_align/corpus
+    english_us_arpa english_us_arpa /home/hyperion/ET3/mfa_align/output --clean
+  date: 2026-03-25 19:49:31.074444
+  exception: ''
+  execution_time: 35.42034959793091
+  exit_code: 0
+  version: 3.3.9
+- command: /home/hyperion/miniconda3/envs/aligner/bin/mfa align /home/hyperion/ET3/mfa_align_v2/corpus
+    english_us_arpa english_us_arpa /home/hyperion/ET3/mfa_align_v2/output --clean
+  date: 2026-03-25 20:21:13.135068
+  exception: ''
+  execution_time: 33.90448975563049
+  exit_code: 0
+  version: 3.3.9

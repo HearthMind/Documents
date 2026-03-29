@@ -1,0 +1,4 @@
+2026-03-25 20:21:40,498 - kalpy.cmvn - INFO - Reading features from: /home/hyperion/Documents/MFA/corpus/corpus/feats.scp
+2026-03-25 20:21:40,498 - kalpy.cmvn - INFO - Reading spk2utt from: /home/hyperion/Documents/MFA/corpus/corpus/spk2utt.scp
+2026-03-25 20:21:40,498 - kalpy.cmvn - DEBUG - Writing to: ark,scp:/home/hyperion/Documents/MFA/corpus/corpus/cmvn.ark,/home/hyperion/Documents/MFA/corpus/corpus/cmvn.scp
+2026-03-25 20:21:40,499 - kalpy.cmvn - INFO - Processing speaker 1: 1 utterances

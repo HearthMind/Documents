@@ -1,0 +1,7 @@
+2026-03-25 20:21:40,077 - kalpy.graphs - 137227166254784 - 1 - DEBUG - Tree path: /home/hyperion/Documents/MFA/corpus/alignment/tree
+2026-03-25 20:21:40,077 - kalpy.graphs - 137227166254784 - 1 - DEBUG - Model path: /home/hyperion/Documents/MFA/corpus/alignment/final.alimdl
+2026-03-25 20:21:41,018 - kalpy.graphs - 137227166254784 - 1 - DEBUG - Set up took 0.9383461475372314 seconds
+2026-03-25 20:21:41,018 - kalpy.graphs - 137227166254784 - 1 - INFO - Compiling graphs for english_us_arpa
+2026-03-25 20:21:41,030 - kalpy.graphs - 137227166254784 - 1 - DEBUG - DISAMBIGUATION: False
+2026-03-25 20:21:41,111 - kalpy.graphs - 137227166254784 - 1 - INFO - Done 1 utterances, errors on 0.
+2026-03-25 20:21:41,111 - kalpy.graphs - 137227166254784 - 1 - DEBUG - Total compilation time: 1.032027006149292 seconds
